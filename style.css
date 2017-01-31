@@ -1,0 +1,22 @@
+
+ #map{
+ 	outline:thin solid blue;
+ 	height: 1000px;
+ 	width:500px;
+ }
+
+ .zero{
+ 	height: 50px;
+ 	width: 50px;
+ 	background-color: black;
+ 	vertical-align: top;
+ 	display: inline-block;
+ }
+  .one{
+ 	height: 50px;
+ 	width: 50px;
+ 	background-color: red;
+ 	outline:thin solid black;
+ 	vertical-align: top;
+ 	display: inline-block;
+ }
