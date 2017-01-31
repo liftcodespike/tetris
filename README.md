@@ -10,12 +10,12 @@ User Controls:
   
 Future updates will include:
 
-  Expected drop position
-  Upcoming pieces window
-  Score
-  Login/ highscore
-  Prototype inheritance for game pieces.
-  Better rotation alogoritms
+  1)Expected drop position
+  2)Upcoming pieces window
+  3)Score
+  4)Login/highscore
+  5)Prototype inheritance for game pieces.
+  6)Better rotation alogoritms
   
   
 
