@@ -1,5 +1,5 @@
 I always thought it would be fun to make tetris, so I decided today that I would give it a try.
-The game uses Javascipt, and HTML, and a little jQuery on top.
+The game uses Javascript, and HTML, and a little jQuery on top.
 
 
 User Controls:
